@@ -1,8 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/kauatiezzi/c763c7390367b176e8e9387826597840/raw/5a6b9b1dbe4c6426b401413091dac7e9b356b9e2/github-card1.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kauã Tiezzi</h1>
+<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Kauã Tiezzi</h1>
 <br>
 
-- 🔥 Computer Engineering Student & looking for my first job in the area.
+- 🔥 Estou no 4º Período da faculdade de Engenharia de Computação e em busca do meu primeiro emprego.
 
 - 🔭 I’m currently study at College [Uniara Araraquara](https://www.uniara.com.br/)
 
