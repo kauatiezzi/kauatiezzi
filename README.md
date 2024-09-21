@@ -1,5 +1,5 @@
 • 👋 Hi, I’m @kauatiezzi <Br>
-• 🎓 Studying Computer Engineering;
+• 🎓 Studying Computer Engineering; <br>
 • 🌱 PHP | Python | Javascript | C; <Br>
 • 💞️ I'm looking for my first job; <br>
 • 👀 Open to work; <br>
