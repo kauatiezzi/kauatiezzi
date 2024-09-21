@@ -1,4 +1,4 @@
-• 👋 Hi, I’m @kauatiezzi <Br>
+• 👋 Hi, I’m Kauã Tiezzi; <Br>
 • 🎓 Studying Computer Engineering; <br>
 • 🌱 PHP | Python | Javascript | C; <Br>
 • 💞️ I'm looking for my first job; <br>
