@@ -1,6 +1,7 @@
-👋 Hi, I’m @kauatiezzi <Br>
-🌱 Javascript | React | Typescript | Java;
-💞️ I’m collaborating as a Fullstack Developer Freelancer;
-👀 Open to work;
-📫 How to reach me: e-mail - kauatiezzi02@hotmail.com
-💡 English | Portuguese 
+• 👋 Hi, I’m @kauatiezzi <Br>
+• 🎓 Studying Computer Engineering;
+• 🌱 PHP | Python | Javascript | C; <Br>
+• 💞️ I'm looking for my first job; <br>
+• 👀 Open to work; <br>
+• 📫 How to reach me: e-mail - kauatiezzi02@hotmail.com; <Br>
+•💡 English | Portuguese <br>
