@@ -8,7 +8,7 @@
 • 🌱 PHP | Python | Javascript | C | HTML | CSS; <Br>
 • 💞️ Procurando meu primeiro emprego na área tech; <br>
 • 👀 Open to work; <br>
-• 📫 Você pode me enviar um email para o  [contact.kauatiezzi@gmail.com](contact.kauatiezzi@gmail.com) <br>
+• 📫 Meu email de contato é o [contact.kauatiezzi@gmail.com](contact.kauatiezzi@gmail.com) <br>
 • ✉️ Meu linkedin: [@kauatiezzi](https://www.linkedin.com/in/kauatiezzi/); <Br>
 • ✉️ Meu currículo: Em breve; <Br>
 • 💡 Portuguese | English <br>
